@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bot.js": "^0.0.1",
+    "discord": "^0.8.2",
+    "discord.js": "^13.5.0",
+    "node": "^17.3.0"
+  }
+}
